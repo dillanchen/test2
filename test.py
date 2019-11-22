@@ -1,1 +1,1 @@
-tstest<>hiuhih
+print("1")
